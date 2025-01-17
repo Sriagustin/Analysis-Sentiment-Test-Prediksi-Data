@@ -1,0 +1,286 @@
+Id,Text Tweet,Sentiment
+1,boikot produk,Negatif
+2,alhamdulillah,Positif
+3,selamat sinyal hilang,Positif
+4,jaringan data lambat banget,Negatif
+5,selamat malam,Positif
+6,kuota ganggu,Negatif
+7,pakai kuota udah kuota gratisan youtube senang banget,Positif
+8,boikot,Negatif
+9,bikin pulsa,Netral
+10,iklan pesan boikot,Negatif
+11,puasa subuh sahur pulsa ribu tolong,Positif
+12,coba pakai parah koneksi,Positif
+13,boikot langgan,Negatif
+14,kartu puasa sinyal kota,Positif
+15,datanya hilang,Negatif
+16,internet lelet iklan,Negatif
+17,langsung,Positif
+18,kuota buka udah bikin,Netral
+19,kuota internet koneksi internetnya lambat banget,Positif
+20,sinyal lambat streaming,Negatif
+21,jaringan bagus,Positif
+22,jelek jaringan,Negatif
+23,stabil,Positif
+24,kerja,Positif
+25,kualitas provider ganggu mahal,Positif
+26,sinyal tai,Negatif
+27,jaringan internet parah,Negatif
+28,kuota hilang,Negatif
+29,pakai bayar puas,Positif
+30,cepat banget data habis,Positif
+31,provider,Positif
+33,hore sinyal,Positif
+35,jaringan lambat,Negatif
+36,pesan bikin,Positif
+37,jaringan cepat,Positif
+38,kuota lambat,Negatif
+39,buka,Netral
+40,rugi isi kuota jaringan banget,Negatif
+42,bagi kuota berkah,Positif
+43,berkah video anak video sahur video pakai,Positif
+44,koneksi daerah kota lambat parah ganggu care,Negatif
+45,pakai anak,Positif
+46,boikot boikot kartu mahal bagus,Negatif
+47,bagi berkah,Positif
+48,isi kuota menit langsung habis,Positif
+49,jelek banget,Negatif
+50,boikot iklan boikot,Negatif
+51,alhamdulillah setia selamat,Positif
+52,udah,Netral
+54,boikot,Negatif
+55,pakai,Positif
+56,bikin boikot coba iklan,Negatif
+57,pakai gimana,Netral
+58,kuota pakai,Positif
+59,moga,Positif
+60,kencang,Positif
+61,beli kuota jaringan internetnya,Positif
+62,lambat,Negatif
+63,pulsa menit bangsat,Negatif
+64,signal internetan subuh,Positif
+65,internet super kuota internet murah mahal,Positif
+66,jaringan sinyal wilayah kasih,Netral
+67,terima kasih,Netral
+68,nomor,Positif
+70,mantap,Positif
+71,sinyal jelek boikot,Negatif
+72,alhamdulillah kartu telpon kartu internetan pakai boikot,Positif
+73,boikot hati,Negatif
+74,alhamdulillah pakai boikot,Positif
+75,pakai setia mahal boikot,Negatif
+76,boikot pakai bagus iklan,Negatif
+77,terbaik,Netral
+79,jelek banget sinyal,Negatif
+80,gratis,Positif
+81,internet mahal harga kuota,Negatif
+82,pakai pakai lambat mahal kualitas,Negatif
+83,moga habis kuota,Positif
+84,konsumen operator pulsa,Positif
+85,murah sinyal alhamdulillah kencang kota,Positif
+86,terbaik,Netral
+88,mantap,Positif
+89,mahal jaringan lelet pesan penuh pesan promo pulsa,Negatif
+90,tolong wilayah lambat,Negatif
+91,sinyal kuat lambat parah provider,Negatif
+92,bikin rugi langgan,Negatif
+93,harga internet,Positif
+94,jaringan stabil kuota,Positif
+95,stabil,Positif
+96,sinyal sinyal tai,Negatif
+98,banget harga jaringan pakai,Positif
+99,gratisan kuota gratis,Positif
+100,pindah provider internetan lambat dengar bagus,Positif
+101,tolong nomor jaringan lambat jaringan,Negatif
+102,bikin,Netral
+103,cepat internet mantap,Positif
+104,jaringan lambat kota lancar jaya,Positif
+105,parah,Negatif
+106,koneksi,Positif
+107,data,Positif
+108,area udah,Netral
+109,coba kuota pakai menit pulsa langsung,Positif
+110,nonton gratis poin poin,Positif
+111,pakai alhamdulillah sinyal simpati,Positif
+112,terima kasih,Netral
+113,mantap sms,Positif
+114,alhamdulillah pakai,Positif
+115,terima kasih,Netral
+116,kencang,Positif
+117,terima kasih gratis ayo,Positif
+118,video menit mantap cepat,Positif
+119,bonus kuota menit nelpon operator,Positif
+120,kuota kota,Netral
+122,pakai kuota,Positif
+123,setia bagus,Positif
+124,ribu,Netral
+125,lambat pakai lancar,Positif
+126,pakai ribu dihack mahal,Negatif
+127,pindah,Negatif
+128,pakai pakai mahal,Negatif
+129,gratisan,Netral
+130,murah hati langgan,Positif
+131,kuota kuota,Netral
+132,penuh bonus,Positif
+133,sinyal mantap,Positif
+134,nelpon kuota,Positif
+135,operator,Netral
+136,lumayan murah,Positif
+138,isi pulsa ribu gratis moga murah murah,Positif
+139,kartu pulsa terima kasih,Positif
+140,mantap isi pulsa ribu bonus kuota data terima kasih layanan mantap,Positif
+141,terima kasih kuota data terima kasih layanan,Positif
+142,konsumen pesan,Positif
+143,kasih,Netral
+144,hore sinyal,Positif
+145,alhamdulillah subuh kuota internet bagus,Positif
+146,youtube kuota keren,Positif
+147,jaringan super cepat,Positif
+148,gratis youtube,Positif
+149,internet nelpon super murah pakai,Positif
+150,buka puasa streaming youtube lancar banget pakai setia,Positif
+151,jaringan nelpon operator gratis banget,Positif
+152,koneksi internet lancar,Positif
+153,ayo boikot nomor nomor buang main,Negatif
+154,ayo buang kartu,Positif
+155,pakai allah kuota kuota habis ganti operator boikot,Negatif
+156,perdana perdana boikot,Negatif
+157,pakai produk boikot,Negatif
+158,boikot boikot pulsa pakai sms bayar bonus,Negatif
+159,lumayan jaringan area puas,Positif
+160,cepat signal jelek,Positif
+161,tolong bayar data datanya,Negatif
+162,nonton gratis poin poin,Positif
+163,gratis ayo,Positif
+164,makan malam gratis poin,Positif
+165,mohon jaringan wilayah buruk,Negatif
+166,jaringan area telpon mohon,Positif
+167,kualitas layanan buruk,Positif
+168,tolong jaringan,Negatif
+169,cepat jelek,Positif
+170,tolong bayar data datanya,Negatif
+171,lumayan jaringan area puas,Positif
+173,makan malam gratis poin,Positif
+174,ayo boikot nomor nomor buang main,Negatif
+176,pakai allah kuota kuota habis ganti operator boikot,Negatif
+177,boikot boikot pulsa pakai sms bayar bonus,Negatif
+178,buka puasa streaming youtube lancar banget pakai setia,Positif
+179,koneksi internet lancar,Positif
+180,sinyal,Netral
+181,koneksi internet lambat,Positif
+182,nelpon murah pakai,Positif
+183,kasih gratis,Positif
+184,kualitas sinyal,Positif
+185,pindah,Negatif
+186,sinyal,Netral
+187,langgan area kota jaringan,Positif
+188,hati hati,Netral
+189,pakai stabil,Positif
+190,lelet ganggu,Negatif
+191,daerah pakai sinyal jelek sinyal,Negatif
+193,koneksi internet,Positif
+194,berkah,Positif
+195,kota,Netral
+196,internetan care,Positif
+197,lambat,Negatif
+198,bagi berkah bagi,Positif
+199,pakai berkah,Positif
+200,setia,Positif
+201,jaringan,Netral
+202,pakai gratis,Positif
+203,pakai gratis,Positif
+204,sinyal lancar,Positif
+205,keren sinyal,Positif
+206,sinyal kuat banget,Positif
+207,banget,Positif
+208,senang,Positif
+209,terima kasih,Netral
+210,pakai,Positif
+211,alhamdulillah setia terbaik,Positif
+212,murah,Positif
+213,kuota habis ganti provider,Negatif
+214,sinyal payah,Negatif
+215,pakai,Positif
+216,boikot boikot,Negatif
+217,kuota malam habis,Negatif
+218,jaringan penuh internet,Positif
+219,sinyal stabil mantap,Positif
+220,data pakai data mahal,Positif
+221,hore makan malam gratis poin,Positif
+222,dihack harga mahal banget koneksi lambat mahal,Negatif
+223,ganti kuota langsung lancar,Positif
+224,konsumen,Positif
+225,alhamdulillah gratisan youtube,Positif
+226,sinyal hilang,Negatif
+227,data,Positif
+228,banget,Positif
+229,udah kuota pakai pulsa,Positif
+230,mahal sinyal jelek bangsat,Negatif
+231,jaringan internet,Positif
+232,area kota jaringan buruk jelek care payah dihack,Negatif
+233,isi kuota datanya langsung habis,Positif
+234,ayo,Positif
+235,dengar youtube gratis jaringan keren,Positif
+236,kartu perdana udah youtube,Positif
+237,kerja dengar youtube,Positif
+238,sinyal kuat kencang pakai,Positif
+239,mantap kuota bikin,Positif
+240,bonus bonus bikin hati senang,Positif
+241,sahur sinyal bagus banget,Positif
+242,udah main sinyal lancar,Positif
+243,youtube keren youtube kuota streaming lancar,Positif
+244,video youtube cepat jaringan lancar kencang,Positif
+245,pakai kartu sinyal kencang lancar,Positif
+246,pakai produk boikot boikot,Negatif
+247,ayo pakai kartu buang,Positif
+248,boikot selamat,Negatif
+249,alhamdulillah kuota murah,Positif
+250,mahal jaringan banget,Negatif
+251,nelpon simpati pulsa,Positif
+252,sinyal lancar,Positif
+253,bagus kerja internetnya,Positif
+255,kualitas jaringan wilayah,Positif
+256,sinyal jaringan internet,Positif
+257,malam jaringan super lelet,Positif
+258,sinyal,Netral
+259,bangsat,Negatif
+260,bangsat,Negatif
+261,signal ganti kartu,Netral
+262,ganggu daerah lelet banget,Negatif
+263,super lelet cepat ganggu gimana,Positif
+264,tai,Negatif
+265,allah sinyal,Positif
+266,bikin,Netral
+267,beli kuota youtube rugi kuota,Negatif
+268,udah,Netral
+269,kuota habis gimana,Negatif
+270,jaringan simpati banget,Positif
+271,tai,Negatif
+272,pakai alhamdulillah,Positif
+273,jaringan daerah stabil,Positif
+274,mahal sinyal parah,Negatif
+275,sms promo,Positif
+276,jaringan,Netral
+277,malam koneksi,Positif
+278,beli kuota internet,Positif
+279,promo kuota internet setia alhamdulillah anak,Positif
+280,dihack mahal,Negatif
+281,jaringan lelet,Negatif
+282,ganggu,Negatif
+283,jaringan,Netral
+284,isi pulsa pakai hilang mohon,Positif
+285,bikin,Netral
+287,parah buang kuota payah,Negatif
+288,koneksi lancar pakai,Positif
+289,pakai sinyal lancar,Positif
+290,data data kerja cepat internetnya pakai,Positif
+291,nonton youtube kuota,Positif
+292,youtube gratis,Positif
+293,jaringan internetnya cepat alhamdulillah,Positif
+294,pakai lancar,Positif
+295,bonus telpon pakai kartu lancar jaya,Positif
+296,lancar sinyal lancar,Positif
+297,alhamdulillah lancar pakai,Positif
+298,pakai internet lancar,Positif
+299,jaya,Positif
+300,sinyal,Netral
